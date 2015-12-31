@@ -1,0 +1,23 @@
+.header{
+    background: rgba(1, 177, 174, 0.98);
+    margin-top: 51px;
+}
+.header h1{
+    color: white;
+}
+.header .row{
+    margin: 0 10px;
+}
+.navbar-brand{
+    font-size: 36px;
+}
+.body{
+    margin-top: 30px;
+}
+button{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font ul{
+    font-size: 60px;
+    list-style-type: none;
+}
