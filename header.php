@@ -57,11 +57,13 @@
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">p4<b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">CSS<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">pp1</a></li>
-                                <li><a href="#">pp2</a></li>
-                                <li><a href="#">pp3</a></li>
+                                <li><a href="css-backgrounds.php">CSS Фоны</a></li>
+                                <li><a href="css-borders.php">CSS рамки</a></li>
+                                <li><a href="css-filters.php">CSS фильтры</a></li>
+                                <li><a href="css-tables.php">CSS таблицы</a></li>
+                                <li><a href="css-tables-body.php">Разметка страницы на CSS-таблицах</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">

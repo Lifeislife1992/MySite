@@ -21,3 +21,7 @@ button{
     font-size: 60px;
     list-style-type: none;
 }
+.image{
+    display: inline-block;
+    margin: 20px auto;
+}
